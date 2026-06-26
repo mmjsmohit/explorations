@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-26 | Total pages: 17
+> Last updated: 2026-06-26 | Total pages: 18
 
 ## Entities
 - [[agent-sandbox]] — Kubernetes SIG Apps project for isolated, stateful, singleton runtimes with stable identity.
@@ -28,5 +28,6 @@
 
 ## Summaries
 - [[agent-sandbox-overview]] — Summary of the Agent Sandbox overview and why it matters for agent runtimes.
+- [[gemini-android-computer-use]] — Summary of the Android quickstart for Gemini 3.5 Flash computer use via ADB.
 - [[manus-context-engineering-webinar]] — Summary of the webinar on context engineering lessons from building Manus.
 - [[the-lmax-architecture]] — Summary of Fowler's LMAX article and its implications for low-latency architecture.

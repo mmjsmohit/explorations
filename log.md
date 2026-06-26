@@ -50,3 +50,11 @@
 - Created: concepts/disruptor.md
 - Created: concepts/mechanical-sympathy.md
 - Updated: index.md
+
+## [2026-06-26] ingest | Control an Android Phone with Gemini 3.5 Flash Computer Use
+- Created: raw/articles/philschmid-gemini-android-computer-use-2026-06-25.md
+- Created: summaries/gemini-android-computer-use.md
+- Updated: entities/gemini-3-5-flash.md
+- Updated: concepts/computer-use-in-llms.md
+- Updated: index.md
+
