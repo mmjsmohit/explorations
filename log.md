@@ -41,3 +41,12 @@
 - Created: concepts/sandbox-crd.md
 - Updated: concepts/context-isolation.md
 - Updated: index.md
+
+## [2026-06-26] ingest | The LMAX Architecture
+- Created: raw/articles/lmax-architecture-martin-fowler.md
+- Created: summaries/the-lmax-architecture.md
+- Created: entities/lmax.md
+- Created: concepts/event-sourcing.md
+- Created: concepts/disruptor.md
+- Created: concepts/mechanical-sympathy.md
+- Updated: index.md

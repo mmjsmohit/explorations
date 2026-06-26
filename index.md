@@ -2,11 +2,12 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-26 | Total pages: 12
+> Last updated: 2026-06-26 | Total pages: 17
 
 ## Entities
 - [[agent-sandbox]] — Kubernetes SIG Apps project for isolated, stateful, singleton runtimes with stable identity.
 - [[gemini-3-5-flash]] — Google model presented here as the host for a new computer-use capability.
+- [[lmax]] — Trading platform used as a reference architecture for low-latency single-writer design.
 - [[manus-ai]] — Manus agent system referenced in the context-engineering webinar.
 
 ## Concepts
@@ -15,6 +16,9 @@
 - [[context-isolation]] — Multi-agent coordination pattern that minimizes shared mutable state across prompts and runtimes.
 - [[context-offloading]] — Moving working memory and capabilities out of the prompt into files, sandboxes, and APIs.
 - [[context-reduction]] — Shrinking working context before it becomes noisy or stale.
+- [[disruptor]] — Ring-buffer-based concurrency component used around the LMAX business core.
+- [[event-sourcing]] — Pattern where durable event history becomes the source of truth and current state is replayable.
+- [[mechanical-sympathy]] — Hardware-aware design lens focused on caches, contention, and single-writer behavior.
 - [[prompt-injection]] — Security concern highlighted as a major risk for computer-use agents.
 - [[sandbox-crd]] — Kubernetes abstraction for a single isolated runtime with stable identity and persistent state.
 
@@ -25,3 +29,4 @@
 ## Summaries
 - [[agent-sandbox-overview]] — Summary of the Agent Sandbox overview and why it matters for agent runtimes.
 - [[manus-context-engineering-webinar]] — Summary of the webinar on context engineering lessons from building Manus.
+- [[the-lmax-architecture]] — Summary of Fowler's LMAX article and its implications for low-latency architecture.
