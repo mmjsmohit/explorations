@@ -58,3 +58,12 @@
 - Updated: concepts/computer-use-in-llms.md
 - Updated: index.md
 
+## [2026-06-26] ingest | What does the next training paradigm look like?
+- Created: raw/transcripts/what-does-the-next-training-paradigm-look-like.md
+- Created: summaries/what-does-the-next-training-paradigm-look-like.md
+- Created: concepts/continual-learning.md
+- Created: concepts/rlvr.md
+- Created: concepts/on-policy-self-distillation.md
+- Created: concepts/dreaming.md
+- Updated: concepts/computer-use-in-llms.md
+- Updated: index.md
