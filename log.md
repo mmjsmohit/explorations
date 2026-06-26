@@ -33,3 +33,11 @@
 ## [2026-06-26] create | context engineering wiki pages
 - Added summary, entity, and concept pages for Manus context engineering
 - Linked related pages in the wiki index
+
+## [2026-06-26] ingest | Agent Sandbox overview
+- Created: raw/articles/agent-sandbox-overview.md
+- Created: summaries/agent-sandbox-overview.md
+- Created: entities/agent-sandbox.md
+- Created: concepts/sandbox-crd.md
+- Updated: concepts/context-isolation.md
+- Updated: index.md
